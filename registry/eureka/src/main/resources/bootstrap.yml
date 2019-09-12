@@ -1,0 +1,4 @@
+spring:
+  application:
+    ## 服务的名称，可以任意修改，但是需要确保在整个系统中的唯一性
+    name: eureka
